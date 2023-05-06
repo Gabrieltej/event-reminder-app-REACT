@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.center{
+  margin: auto;
+  width: 100%;
+  text-align: center;
+}
+
+.fetchdat{
+  width: 100%;
+  text-align: center;
+  background-color: #EFF5FB;
+}
+body{
+  background-color:burlywood;
+}
+.form{
+  background-color: white;
+  width: 20%;
+  margin-left: 30px;
+  padding: 10px;
+}
+.fry{
+  display: flex;
+  background-color:#EFF5FB;
+  width: 50%;
+  width: 40%;
+  justify-content: space-between;
+  margin-left: 30px;
+  border-radius: 10px;
+}
+.thediv{
+  width:100%;
+  text-align: center;
+}
+.centerbtn{
+  width: 100%;
+  text-align: center;
+}
+.buttonsw{
+  width: 100%;
+  text-align: center;
+  margin-top: 80px;
+}
+
+.firstBtn{
+  background: green;
+  border: none;
+  border-radius: 5px;
+  padding: 6px;
+  margin-top: 10px;
+  color: white;
+  cursor: pointer;
+}
+
+.secondBtn{
+  background: green;
+  border: none;
+  border-radius: 5px;
+  padding: 6px;
+  margin-top: 10px;
+  color: white;
+  cursor: pointer;
+
+  
+}
+.deletekey{
+ background: blueviolet;
+  border: none;
+  border-radius: 8px;
+  padding: 5px;
+  color: white;
+  cursor: pointer;
+}
